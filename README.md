@@ -19,6 +19,6 @@ currently_learning: ["Atmospherical Climate Modelling", "Flood Modelling and Man
 hobbies: ["Hiking", "Camping", "Drinking", "Socialising", "Exploring", "Reading"]
 ```
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=samarchie&custom_title=Sam's%20activity%20graph&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samarchie&custom_title=Sam's%20activity%20graph&theme=github&hide_border=true)](https://github.com/samarchie/github-readme-activity-graph)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer" width="100%">
